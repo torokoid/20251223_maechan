@@ -188,7 +188,7 @@ p.note { display: none; }
 <h2><span class="yellow">iPhoneピンボケの原因はフロントガラスの汚れ、汚れのマクロ撮影になってました</span></h2>
 <a href="20251223_006.JPG" target="_blank"><img src="20251223_006.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">チャット撮ればこの景色</span></h2>
+<h2><span class="yellow">ちゃんと撮ればこの景色</span></h2>
 <a href="20251223_007.JPG" target="_blank"><img src="20251223_007.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">Lotus’s周辺の田んぼ、田植えがなかなか始まりません</span></h2>
