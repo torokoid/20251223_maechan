@@ -337,7 +337,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">鱗雲とワンコから、お花とチビちゃん、夕暮れ定点観測まででした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">眩しい朝日から、蝶々とお花、スーパーと水田、夕暮れ定点観測まででした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
